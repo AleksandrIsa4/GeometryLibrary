@@ -1,0 +1,4 @@
+# Project exclude paths
+/Figure2D/target/
+/GeometryUtils/target/
+/ThreeDimensionalShapes/target/
